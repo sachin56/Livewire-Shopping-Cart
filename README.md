@@ -100,9 +100,10 @@ Make sure you have the following software installed on your system:
 
 ---
 
-## 🧪 Running Tests
+## 🧪 App Video Link
 
 To run the application's test suite, use the following command:
 
-```bash
-php artisan test
+    ```bash
+    https://drive.google.com/drive/folders/105BgaeZK7E7Hvn9UFoImf-IFyONenJ4Y?usp=sharing
+    ```
