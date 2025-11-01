@@ -102,8 +102,4 @@ Make sure you have the following software installed on your system:
 
 ## 🧪 App Video Link
 
-To run the application's test suite, use the following command:
-
-    ```bash
-    https://drive.google.com/drive/folders/105BgaeZK7E7Hvn9UFoImf-IFyONenJ4Y?usp=sharing
-    ```
+To view vidoe **[https://drive.google.com/drive/folders/105BgaeZK7E7Hvn9UFoImf-IFyONenJ4Y?usp=sharing](https://drive.google.com/drive/folders/105BgaeZK7E7Hvn9UFoImf-IFyONenJ4Y?usp=sharing)**:
