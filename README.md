@@ -42,7 +42,7 @@ Make sure you have the following software installed on your system:
     Open your terminal and clone the project repository.
 
     ```bash
-    git clone [https://github.com/sachin56/Livewire-Shopping-Cart.git](https://github.com/sachin56/Livewire-Shopping-Cart.git)
+    git clone https://github.com/sachin56/Livewire-Shopping-Cart.git
     cd livewire-cart-challenge
     ```
 
